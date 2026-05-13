@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5C2A&height=120&section=header&text=Kaan%20Can%20Kurt&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Backend%20Developer%20%7C%20Data%20Enthusiast&descSize=13&descAlignY=85&descColor=d4edda" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:134E5E,100:71B280&text=Kaan%20Can%20Kurt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Flutter%20Developer%20•%20Backend%20Developer%20•%20Data%20Enthusiast&descAlignY=58&descSize=16"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A5C2A?style=for-the-badge&logo=vercel&logoColor=white)](https://kaancankurt.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-can-kurt-805990299)
-&nbsp;
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaancan368368@gmail.com)
+<a href="https://kaancankurt.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kaan-can-kurt-805990299">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kaancan368368@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=71B280&center=true&vCenter=true&width=700&lines=Building+Modern+Mobile+Applications;Flutter+%7C+Backend+%7C+Cloud;Interested+in+AI+%26+Data+Engineering;Always+Learning+New+Technologies"/>
 
 </div>
 
