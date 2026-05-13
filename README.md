@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=540&lines=Software+Engineer;Flutter+%26+Backend+Developer;Product+%26+Data+Enthusiast" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=99999999&pause=99999999&color=1A5C2A&center=true&vCenter=true&width=540&lines=Software+Engineer+%7C+Flutter+%26+Backend+Developer+%7C+Data+Enthusiast" alt="Header" />
+</p>
 
 <br/>
 
@@ -111,7 +113,7 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&hide_border=true&bg_color=fafafa&title_color=000000&text_color=555555&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&hide_border=true&bg_color=ffffff&title_color=1A5C2A&text_color=555555&langs_count=8&cache_seconds=1800" />
 </div>
 
 <br/>
