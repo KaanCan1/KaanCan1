@@ -145,17 +145,17 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaanCan1&show_icons=true&theme=transparent&hide_border=true&title_color=71B280&icon_color=71B280&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaanCan1&show_icons=true&theme=transparent&hide_border=true&title_color=71B280&icon_color=71B280&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&theme=transparent&hide_border=true&title_color=71B280&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=KaanCan1&theme=transparent&hide_border=true&ring=71B280&fire=71B280&currStreakLabel=71B280&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=c9d1d9" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&theme=transparent&hide_border=true&title_color=71B280&text_color=c9d1d9&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KaanCan1&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img width="72%" src="https://streak-stats.demolab.com?user=KaanCan1&theme=transparent&hide_border=true&ring=71B280&fire=71B280&currStreakLabel=71B280&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=c9d1d9" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaanCan1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" />
 
 </div>
 
@@ -165,10 +165,18 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:134E5E,100:71B280"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:134E5E,100:71B280"/>
 
 ### 🌐 Portfolio
+<a href="https://kaancankurt.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-71B280?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 <a href="https://kaancankurt.vercel.app">kaancankurt.vercel.app</a>
+
+<br/>
 
 <sub>Built with ❤️ by Kaan Can Kurt</sub>
 
