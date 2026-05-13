@@ -141,18 +141,21 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 <br/>
 
 ---
-
-## 📊 Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KaanCan1&show_icons=true&hide_border=true&bg_color=f6faf7&title_color=1A5C2A&icon_color=1A5C2A&text_color=333333&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&hide_border=true&bg_color=f6faf7&title_color=1A5C2A&text_color=333333&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaanCan1&show_icons=true&theme=transparent&hide_border=true&title_color=71B280&icon_color=71B280&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&theme=transparent&hide_border=true&title_color=71B280&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KaanCan1&hide_border=true&background=f6faf7&ring=1A5C2A&fire=2e7d32&currStreakLabel=1A5C2A&sideLabels=555555&dates=888888&stroke=dddddd" />
+<img width="70%" src="https://streak-stats.demolab.com?user=KaanCan1&theme=transparent&hide_border=true&ring=71B280&fire=71B280&currStreakLabel=71B280&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KaanCan1&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -161,6 +164,12 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5C2A&height=80&section=footer" />
-<sub>kaancankurt.vercel.app</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:134E5E,100:71B280"/>
+
+### 🌐 Portfolio
+<a href="https://kaancankurt.vercel.app">kaancankurt.vercel.app</a>
+
+<sub>Built with ❤️ by Kaan Can Kurt</sub>
+
 </div>
