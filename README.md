@@ -1,16 +1,14 @@
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=99999999&pause=99999999&color=1A5C2A&center=true&vCenter=true&width=540&lines=Software+Engineer+%7C+Flutter+%26+Backend+Developer+%7C+Data+Enthusiast" alt="Header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5C2A&height=120&section=header&text=Kaan%20Can%20Kurt&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Backend%20Developer%20%7C%20Data%20Enthusiast&descSize=13&descAlignY=85&descColor=d4edda" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://kaancankurt.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A5C2A?style=for-the-badge&logo=vercel&logoColor=white)](https://kaancankurt.vercel.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-can-kurt-805990299)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-can-kurt-805990299)
 &nbsp;
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaancan368368@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaancan368368@gmail.com)
 
 </div>
 
@@ -30,11 +28,35 @@ I'm a software engineer focused on building clean, user-first mobile and backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,cs,php&theme=light&perline=7" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql,mysql,sqlite,firebase,docker&theme=light&perline=6" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio&theme=light&perline=6" />
+**Mobile & Frontend**
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Backend & Data**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+**Database & Cloud**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+
+**Tools**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 
 </div>
 
@@ -113,7 +135,15 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&hide_border=true&bg_color=ffffff&title_color=1A5C2A&text_color=555555&langs_count=8&cache_seconds=1800" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KaanCan1&show_icons=true&hide_border=true&bg_color=f6faf7&title_color=1A5C2A&icon_color=1A5C2A&text_color=333333&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&hide_border=true&bg_color=f6faf7&title_color=1A5C2A&text_color=333333&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=KaanCan1&hide_border=true&background=f6faf7&ring=1A5C2A&fire=2e7d32&currStreakLabel=1A5C2A&sideLabels=555555&dates=888888&stroke=dddddd" />
+
 </div>
 
 <br/>
@@ -121,5 +151,6 @@ An end-to-end data science project in a Jupyter Notebook: exploratory data analy
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5C2A&height=80&section=footer" />
 <sub>kaancankurt.vercel.app</sub>
 </div>
