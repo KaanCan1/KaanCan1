@@ -79,6 +79,23 @@ I'm a software engineer focused on building clean, user-first mobile and backend
 
 <br/>
 
+### 📊 Portfolio Tracker
+> Self-hosted stock portfolio & swing-trading discipline dashboard with a Claude AI layer — vanilla JS, Express, PostgreSQL, MCP.
+
+A production app I use daily to run my own portfolio: live market-data pipelines with quota-friendly caching, a unified 0–100 stock radar, Qullamaggie-style swing setup detection, an institutional-grade risk desk (VaR, correlation matrix, beta, factor exposure) and hourly "guardian" e-mail alerts. The AI layer uses Claude structured outputs for an adversarial thesis desk (bull/bear case, forced decision, measurable red lines) and process-focused daily trade audits — and an MCP server exposes the whole portfolio to Claude Code, so you can literally chat with your positions from the editor.
+
+**Key features:** unified stock scoring · swing journal with monthly targets · VaR/correlation risk desk · Claude thesis desk & trade audits · append-only AI paper-trading ledger · MCP server with 6 tools · zero-framework SPA with 3 runtime dependencies.
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/KaanCan1/portfolio-tracker)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
+[![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
+&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/portfolio-tracker)
+
+<br/>
+
+---
+
 ### 💸 Spendly
 > Personal finance tracker built with Flutter and a Node.js backend, fully containerized with Docker.
 
