@@ -1,201 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:134E5E,100:71B280&text=Kaan%20Can%20Kurt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Flutter%20Developer%20•%20Backend%20Developer%20•%20Data%20Enthusiast&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1C1A17,60:8A5F0C,100:E0A93B&text=Kaan%20Can%20Kurt&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=17"/>
 
 <br/>
 
-<a href="https://kaancankurt.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kaan-can-kurt-805990299">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kaancan368368@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://kaancankurt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1C1A17?style=for-the-badge&logo=vercel&logoColor=E0A93B"/></a>
+<a href="https://linkedin.com/in/kaan-can-kurt-805990299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaancan368368@gmail.com"><img src="https://img.shields.io/badge/Email-1C1A17?style=for-the-badge&logo=maildotru&logoColor=E0A93B"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=71B280&center=true&vCenter=true&width=700&lines=Building+Modern+Mobile+Applications;Flutter+%7C+Backend+%7C+Cloud;Interested+in+AI+%26+Data+Engineering;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=E0A93B&center=true&vCenter=true&width=620&lines=Cross-platform+mobile+apps+with+Flutter;Full-stack+web+products%2C+interface+to+API;Building+with+Claude+%26+MCP;Deterministic+first%2C+LLM+second"/>
 
 </div>
 
 <br/>
 
----
+## About
 
-## 👨‍💻 About Me
+I build cross-platform mobile apps with **Flutter** and ship full-stack web products from the interface down to the API. Lately most of my time goes to **Portfolio Tracker** — a self-hosted trading dashboard I use every day, where I own the whole stack: product, UI, Express backend, market-data pipelines and the Claude AI layer.
 
-I'm a software engineer focused on building clean, user-first mobile and backend products. My main stack revolves around **Flutter** for cross-platform apps and **Node.js** for containerized backend services. I also enjoy diving into data — from exploratory analysis to training ML models. I care about architecture, simplicity, and shipping things that actually work.
+I care about small dependency counts, systems that fail honestly, and shipping things that actually get used.
+
+```
+Location   İzmir, Türkiye
+Focus      Flutter · Node.js · PostgreSQL · AI integration
+Now        Portfolio Tracker — daily driver, solo build
+Open to    New roles and freelance work
+```
 
 <br/>
 
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Mobile & Frontend**
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Data**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Database & Cloud**
+**Databases & Infra**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🛠 Tools
+**AI & Tools**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
-[![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 </div>
 
 <br/>
 
----
-
-## 🚀 Projects
-
-<br/>
-
-### 📊 Portfolio Tracker
-> Self-hosted stock portfolio & swing-trading discipline dashboard with a Claude AI layer — vanilla JS, Express, PostgreSQL, MCP.
-
-A production app I use daily to run my own portfolio: live market-data pipelines with quota-friendly caching, a unified 0–100 stock radar, Qullamaggie-style swing setup detection, an institutional-grade risk desk (VaR, correlation matrix, beta, factor exposure) and hourly "guardian" e-mail alerts. The AI layer uses Claude structured outputs for an adversarial thesis desk (bull/bear case, forced decision, measurable red lines) and process-focused daily trade audits — and an MCP server exposes the whole portfolio to Claude Code, so you can literally chat with your positions from the editor.
-
-**Key features:** unified stock scoring · swing journal with monthly targets · VaR/correlation risk desk · Claude thesis desk & trade audits · append-only AI paper-trading ledger · MCP server with 6 tools · zero-framework SPA with 3 runtime dependencies.
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/KaanCan1/portfolio-tracker)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
-[![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/KaanCan1/portfolio-tracker)
-&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/portfolio-tracker)
-
-<br/>
-
----
-
-### 💸 Spendly
-> Personal finance tracker built with Flutter and a Node.js backend, fully containerized with Docker.
-
-Spendly is a minimal, intuitive expense tracking app designed to give users full visibility over their spending. The Flutter frontend delivers a clean cross-platform UI for both iOS and Android, while the Node.js backend handles data persistence and business logic. Docker Compose makes the whole stack easy to spin up locally or deploy.
-
-**Key features:** category-based expense logging · daily/monthly summaries · containerized backend · clean separation of concerns between frontend and API layer.
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/KaanCan1/Spendly)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/KaanCan1/Spendly)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/KaanCan1/Spendly)
-&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/Spendly)
-
-<br/>
-
----
-
-### 🫘 BeanSocial
-> A full-featured social platform built entirely with Flutter, with a Node.js/TypeScript backend API.
-
-BeanSocial is a social media application where users can share posts, interact with others, and manage their profiles. The app follows a clean architecture pattern on the Flutter side, keeping UI, logic, and data layers well separated. The backend (`/api`) is built with Node.js and TypeScript. A notable challenge solved during development: fixing a bug with image uploads on the profile page, which led to a full repo refresh to keep the codebase clean.
-
-**Key features:** user authentication · profile pages with image upload · post feed · real-time-ready architecture · multi-platform Flutter build (Android, iOS, Web, Desktop).
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/KaanCan1/beansocial_son)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/KaanCan1/beansocial_son)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/KaanCan1/beansocial_son)
-&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/beansocial_son)
-
-<br/>
-
----
-
-### 🌐 Portfolio Website
-> Lightweight personal portfolio deployed on Vercel — no frameworks, just hand-written HTML, CSS, and JS.
-
-Built from scratch without any frontend framework to keep things fast and bloat-free. The goal was a minimal, readable site that loads instantly and speaks for itself. Deployed via Vercel with zero config.
-
-**Key features:** responsive design · no dependencies · fast load · deployed at [kaancankurt.vercel.app](https://kaancankurt.vercel.app).
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/KaanCan1/Portfolio_Website_Kaan)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/KaanCan1/Portfolio_Website_Kaan)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/KaanCan1/Portfolio_Website_Kaan)
-&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/Portfolio_Website_Kaan)
-
-<br/>
-
----
-
-### 🍷 Red Wine Quality — ML Analysis
-> Machine learning model that predicts wine quality scores from physicochemical properties using the UCI Wine Quality dataset.
-
-An end-to-end data science project in a Jupyter Notebook: exploratory data analysis, feature correlation, preprocessing, and model training. Tested multiple classification approaches (Random Forest, Logistic Regression, etc.) and evaluated performance using accuracy, confusion matrices, and cross-validation. A good example of applying ML to a real, structured dataset.
-
-**Key features:** EDA with visualizations · feature importance analysis · multiple classifier comparison · clean notebook structure with documented findings.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/KaanCan1/Red_wine_quailty)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/KaanCan1/Red_wine_quailty)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/KaanCan1/Red_wine_quailty)
-&nbsp;&nbsp;→ [View Repository](https://github.com/KaanCan1/Red_wine_quailty)
-
-<br/>
-
----
-## 📊 GitHub Analytics
+## Featured Project
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaanCan1&show_icons=true&theme=transparent&hide_border=true&title_color=71B280&icon_color=71B280&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaanCan1&layout=compact&theme=transparent&hide_border=true&title_color=71B280&text_color=c9d1d9&cache_seconds=1800" />
-
-<br/><br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=KaanCan1&theme=transparent&hide_border=true&ring=71B280&fire=71B280&currStreakLabel=71B280&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=c9d1d9" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=KaanCan1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" />
-
+  <a href="https://github.com/KaanCan1/portfolio-tracker">
+    <img width="88%" src="https://raw.githubusercontent.com/KaanCan1/portfolio-tracker/main/docs/screenshots/overview.png" alt="Portfolio Tracker"/>
+  </a>
 </div>
+
+<br/>
+
+### 📊 [Portfolio Tracker](https://github.com/KaanCan1/portfolio-tracker)
+
+> Self-hosted stock portfolio & swing-trading discipline dashboard, with a Claude AI layer and an MCP server.
+
+Built end to end as a solo project — product, design, backend, data pipelines and AI integration. Instead of just charting prices it enforces the rules I set for myself: positions without a stop plan get flagged, new entries are blocked when the market regime is bad, and profits trigger a "pull your initial capital out" suggestion.
+
+**What's inside**
+
+- **Radar engine** — one 0–100 score per ticker from momentum, analyst consensus, fundamentals and insider activity, plus breakout/pullback setup detection and a market-regime gate
+- **Claude thesis desk** — adversarial bull/bear analysis grounded only in the app's own data, returned as structured JSON (`json_schema`) and cached per symbol
+- **Deterministic first, LLM second** — a rule engine grades every trade of the day; Claude only interprets the evidence pack it produces
+- **Risk desk** — correlation matrix, 95% VaR, portfolio beta, Monte-Carlo net-worth forecast
+- **Guardian** — hourly server-side checks that e-mail alerts for breached stops and concentration limits
+- **MCP server** — exposes the whole API to Claude Code / Desktop as 6 tools
+- **Zero-framework SPA** — no build step, 3 runtime dependencies total
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6C47FF?style=flat-square)
 
 <br/>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:134E5E,100:71B280"/>
-
-### 🌐 Portfolio
-<a href="https://kaancankurt.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-71B280?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://kaancankurt.vercel.app">kaancankurt.vercel.app</a>
-
 <br/>
 
-<sub>Built with ❤️ by Kaan Can Kurt</sub>
+## Other Projects
 
-</div>
+### ☕ [BeanSocial](https://github.com/KaanCan1/beansocial_son)
+
+> A social platform for coffee lovers — share recipes, save favourite brews, discover new coffee. My graduation project.
+
+Flutter client with GetX state management, backed by a custom Node.js/Express API using Prisma, JWT auth and image uploads. Built solo from UI to database schema.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
