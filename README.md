@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1C1A17,60:8A5F0C,100:E0A93B&text=Kaan%20Can%20Kurt&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=17"/>
+# Kaan Can Kurt
 
-<br/>
+**Computer Engineer · Backend & Data · Flutter**
 
-<a href="https://kaancankurt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1C1A17?style=for-the-badge&logo=vercel&logoColor=E0A93B"/></a>
-<a href="https://linkedin.com/in/kaan-can-kurt-805990299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kaancan368368@gmail.com"><img src="https://img.shields.io/badge/Email-1C1A17?style=for-the-badge&logo=maildotru&logoColor=E0A93B"/></a>
+<a href="https://kaancankurt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1C1A17?style=for-the-badge&logo=vercel&logoColor=E0A93B"/></a> <a href="https://linkedin.com/in/kaan-can-kurt-805990299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:kaancan368368@gmail.com"><img src="https://img.shields.io/badge/Email-1C1A17?style=for-the-badge&logo=maildotru&logoColor=E0A93B"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=E0A93B&center=true&vCenter=true&width=620&lines=Cross-platform+mobile+apps+with+Flutter;Full-stack+web+products%2C+interface+to+API;Building+with+Claude+%26+MCP;Deterministic+first%2C+LLM+second"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=E0A93B&center=true&vCenter=true&width=680&lines=SQL+%C2%B7+PostgreSQL+%C2%B7+data+modelling;Data+validation+%26+transformation+pipelines;Cross-platform+mobile+apps+with+Flutter;Claude+API+structured+outputs+%26+MCP"/>
 
 </div>
 
@@ -18,16 +16,28 @@
 
 ## About
 
-I build cross-platform mobile apps with **Flutter** and ship full-stack web products from the interface down to the API. Lately most of my time goes to **Portfolio Tracker** — a self-hosted trading dashboard I use every day, where I own the whole stack: product, UI, Express backend, market-data pipelines and the Claude AI layer.
+Computer Engineering graduate (Tokat Gaziosmanpaşa University, 2025) working on **backend and data**: SQL and PostgreSQL, data modelling, and pipelines that validate and transform structured and unstructured data with Python and Node.js. I also build cross-platform mobile apps with **Flutter**.
 
-I care about small dependency counts, systems that fail honestly, and shipping things that actually get used.
+Most of my time goes to **Portfolio Tracker** — a self-hosted portfolio and risk-analysis dashboard I use daily, where I own the whole stack: relational data model, Express API, market-data pipelines and the Claude AI layer.
+
+I'm drawn to master data management, data quality and process automation — systems that fail honestly and keep their own data trustworthy.
 
 ```
-Location   İzmir, Türkiye
-Focus      Flutter · Node.js · PostgreSQL · AI integration
-Now        Portfolio Tracker — daily driver, solo build
-Open to    New roles and freelance work
+Focus    SQL · PostgreSQL · data modelling · Node.js · Flutter
+Now      Portfolio Tracker — daily driver, solo build
 ```
+
+<br/>
+
+## Experience
+
+**Computer Engineering Intern** — Eduji R&D Software Design and Consultancy Inc.
+*Bornova, İzmir · July 2024 – September 2024*
+
+- Implemented REST API integration and contributed to querying and transforming large data sets through server-side filtering and pagination logic
+- Implemented token-based authentication, state management with GetX, and secure storage with FlutterSecureStorage
+- Contributed to a survey-based, reward-driven mobile application built with Flutter; designed the UI in Figma
+- Tested backend APIs with Postman to validate data contracts, working closely with the backend team
 
 <br/>
 
@@ -35,21 +45,25 @@ Open to    New roles and freelance work
 
 <div align="center">
 
-**Mobile & Frontend**
+**Data & Databases**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1C1A17?style=for-the-badge&logo=databricks&logoColor=E0A93B) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Backend & Data**
+**AI & NLP**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Databases & Infra**
+**Languages**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI & Tools**
+**Backend & Tools**
 
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -67,18 +81,18 @@ Open to    New roles and freelance work
 
 ### 📊 [Portfolio Tracker](https://github.com/KaanCan1/portfolio-tracker)
 
-> Self-hosted stock portfolio & swing-trading discipline dashboard, with a Claude AI layer and an MCP server.
+> Self-hosted portfolio tracking and risk-analysis dashboard, with a Claude AI layer and an MCP server.
 
-Built end to end as a solo project — product, design, backend, data pipelines and AI integration. Instead of just charting prices it enforces the rules I set for myself: positions without a stop plan get flagged, new entries are blocked when the market regime is bad, and profits trigger a "pull your initial capital out" suggestion.
+Built end to end as a solo project — relational data model, API, market-data pipelines and AI integration. Instead of just charting prices it enforces the rules I set for myself: positions without a stop plan get flagged, new entries are blocked when the market regime is bad, and profits trigger a "pull your initial capital out" suggestion.
 
 **What's inside**
 
-- **Radar engine** — one 0–100 score per ticker from momentum, analyst consensus, fundamentals and insider activity, plus breakout/pullback setup detection and a market-regime gate
-- **Claude thesis desk** — adversarial bull/bear analysis grounded only in the app's own data, returned as structured JSON (`json_schema`) and cached per symbol
+- **Express + PostgreSQL REST API** and a relational data model for portfolio tracking and risk analysis
+- **Structured-output processing layer** — Claude API `json_schema` turns unstructured financial text into schema-conformant data, with validation as a data-quality gate
+- **Risk module** — Value at Risk (VaR), Monte Carlo simulation, correlation matrix and portfolio beta
+- **Radar engine** — one 0–100 score per ticker from momentum, analyst consensus, fundamentals and insider activity, plus setup detection and a market-regime gate
 - **Deterministic first, LLM second** — a rule engine grades every trade of the day; Claude only interprets the evidence pack it produces
-- **Risk desk** — correlation matrix, 95% VaR, portfolio beta, Monte-Carlo net-worth forecast
-- **Guardian** — hourly server-side checks that e-mail alerts for breached stops and concentration limits
-- **MCP server** — exposes the whole API to Claude Code / Desktop as 6 tools
+- **MCP server** — lets the model query the database through tool calls, as 6 tools in Claude Code / Desktop
 - **Zero-framework SPA** — no build step, 3 runtime dependencies total
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6C47FF?style=flat-square)
@@ -93,8 +107,124 @@ Built end to end as a solo project — product, design, backend, data pipelines 
 
 ### ☕ [BeanSocial](https://github.com/KaanCan1/beansocial_son)
 
-> A social platform for coffee lovers — share recipes, save favourite brews, discover new coffee. My graduation project.
+> A social platform for coffee lovers — share recipes, follow each other, discover new coffee. My graduation project.
 
-Flutter client with GetX state management, backed by a custom Node.js/Express API using Prisma, JWT auth and image uploads. Built solo from UI to database schema.
+Flutter client with GetX, backed by my own Express REST API using Prisma over PostgreSQL: users, posts, comments, likes, follows and coffee recipes, with hashed passwords, JWT sessions and server-side image uploads.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+<br/>
+
+### 💸 [Spendly](https://github.com/KaanCan1/Spendly)
+
+> Clean, minimal expense tracker that keeps you on top of your spending.
+
+Flutter front end with Google and Apple sign-in, talking to a Fastify + Prisma + PostgreSQL backend with JWT sessions. The whole stack spins up with Docker Compose.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br/>
+
+### 🎬 [Sentiment Analysis (NLP)](https://github.com/KaanCan1/Film-Yorumlari-Duygu-Analizi)
+
+> Classifies movie reviews as positive or negative, comparing classic ML models on a labelled dataset.
+
+An NLP pipeline covering text preprocessing, vectorisation and classification, with models trained and evaluated against accuracy, F1 and confusion matrix.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [MoodAktif](https://github.com/KaanCan1/MoodAktif)
+
+Mood-focused Android app built natively in Java — activity-based navigation and on-device local state.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Simple Chart Plotter](https://github.com/KaanCan1/Simple-Chart-Plotter)
+
+Lightweight Python tool that reads data and renders clean charts — quick visual exploration without the friction.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Website](https://github.com/KaanCan1/Portfolio_Website_Kaan)
+
+My portfolio — hand-written HTML/CSS/JS, no framework, no build step. Bilingual (TR/EN), dark mode, deployed on Vercel.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍷 [Red Wine Quality](https://github.com/KaanCan1/Red_wine_quailty)
+
+End-to-end notebook predicting wine quality from physicochemical features — EDA, feature importance, classifier comparison.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Education & Certificates
+
+**BSc in Computer Engineering** — Tokat Gaziosmanpaşa University, 2021–2025 · GPA 88.02 / 100
+Coursework: database management, data structures and algorithm analysis, artificial intelligence, machine learning, statistics, network security.
+
+**Certificates**
+
+![Huawei](https://img.shields.io/badge/Huawei_%26_CloudMetrik-Cybersecurity_Bootcamp_(2026)-FF0000?style=flat-square&logo=huawei&logoColor=white) ![BTK](https://img.shields.io/badge/BTK_Academy-Git_%26_GitHub-1C1A17?style=flat-square&logo=github&logoColor=E0A93B) ![BTK](https://img.shields.io/badge/BTK_Academy-Cybersecurity-1C1A17?style=flat-square) ![BTK](https://img.shields.io/badge/BTK_Academy-Excel_Fundamentals-1C1A17?style=flat-square)
+
+**Languages** — Turkish (native) · English B2 · German A1
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/KaanCan1?style=for-the-badge&logo=github&label=Followers&labelColor=1C1A17&color=E0A93B"/> <img src="https://img.shields.io/github/stars/KaanCan1?style=for-the-badge&logo=github&label=Stars&labelColor=1C1A17&color=E0A93B"/> <img src="https://komarev.com/ghpvc/?username=KaanCan1&style=for-the-badge&label=Profile+Views&color=E0A93B"/>
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=KaanCan1&theme=transparent&hide_border=true&ring=E0A93B&fire=E0A93B&currStreakLabel=E0A93B&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e&sideLabels=c9d1d9"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### Let's build something
+
+<a href="https://kaancankurt.vercel.app"><img src="https://img.shields.io/badge/kaancankurt.vercel.app-E0A93B?style=for-the-badge&logo=vercel&logoColor=1C1A17"/></a>
+
+<br/>
+
+<sub>Built by Kaan Can Kurt</sub>
+
+</div>
