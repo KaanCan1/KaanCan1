@@ -105,6 +105,37 @@ Built end to end as a solo project — relational data model, API, market-data p
 
 ## Other Projects
 
+<div align="center">
+  <a href="https://github.com/KaanCan1/Sepet">
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/01-endeks.png" alt="Sepet — index screen"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/02-fis.png" alt="Sepet — receipt screen"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/05-eslesme.png" alt="Sepet — match confirmation sheet"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/03-urun-gecmisi.png" alt="Sepet — product history"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/04-aylik-kart.png" alt="Sepet — monthly share card"/>
+  </a>
+</div>
+
+<br/>
+
+### 🧾 [Sepet](https://github.com/KaanCan1/Sepet)
+
+> Builds a personal inflation index from your own grocery receipts and puts it next to TÜİK and ENAG.
+
+Official inflation measures one fixed basket meant to represent a whole country — but nobody actually buys that basket. Sepet reads your receipts and builds an index from the products you really buy.
+
+**What's inside**
+
+- **On-device OCR (Apple Vision)** — the receipt photo never leaves the phone; only matched lines reach the server
+- **The `eşleşme?` case** — when normalization can't tell which canonical product a line means, the app asks instead of guessing; a silent mismatch would corrupt the index invisibly
+- **Claude as an ambiguity resolver only** — confirmed matches are cached per receipt format, so cost scales with uncertainty rather than with volume
+- **Laspeyres index** computed backend-side over canonical products, aliases and price observations, compared against monthly TÜİK CPI and ENAG E-CPI series
+- **KVKK-first** — separate disclosure and explicit-consent screens per the Board's 2026/347 decision, optional permissions off by default, guarded by a test
+- **Green `main`** — PR-only flow with CI running format, `analyze --fatal-infos`, tests with coverage and Android/iOS builds; Flutter version pinned via FVM and read from the same file by CI
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Apple Vision](https://img.shields.io/badge/Apple_Vision_OCR-000000?style=flat-square&logo=apple&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
+
 ### ☕ [BeanSocial](https://github.com/KaanCan1/beansocial_son)
 
 > A social platform for coffee lovers — share recipes, follow each other, discover new coffee. My graduation project.
