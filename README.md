@@ -107,11 +107,11 @@ Built end to end as a solo project — relational data model, API, market-data p
 
 <div align="center">
   <a href="https://github.com/KaanCan1/Sepet">
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/01-endeks.png" alt="Sepet — index screen"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/02-fis.png" alt="Sepet — receipt screen"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/05-eslesme.png" alt="Sepet — match confirmation sheet"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/03-urun-gecmisi.png" alt="Sepet — product history"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/04-aylik-kart.png" alt="Sepet — monthly share card"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/01-endeks.png" alt="Sepet — index screen"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/02-fis.png" alt="Sepet — receipt screen"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/03-kirilim.png" alt="Sepet — category and brand breakdown"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/04-urun-gecmisi.png" alt="Sepet — product history"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/05-aylik-kart.png" alt="Sepet — monthly share card"/>
   </a>
 </div>
 
@@ -119,16 +119,17 @@ Built end to end as a solo project — relational data model, API, market-data p
 
 ### 🧾 [Sepet](https://github.com/KaanCan1/Sepet)
 
-> Builds a personal inflation index from your own grocery receipts and puts it next to TÜİK and ENAG.
+> Builds a personal inflation index from your own grocery receipts and puts it next to the official TÜİK series.
 
 Official inflation measures one fixed basket meant to represent a whole country — but nobody actually buys that basket. Sepet reads your receipts and builds an index from the products you really buy.
 
 **What's inside**
 
-- **On-device OCR (Apple Vision)** — the receipt photo never leaves the phone; only matched lines reach the server
-- **The `eşleşme?` case** — when normalization can't tell which canonical product a line means, the app asks instead of guessing; a silent mismatch would corrupt the index invisibly
+- **On-device OCR (Apple Vision)** — the receipt photo never crosses the device boundary; only matched lines reach the server, so data minimisation is an architectural property rather than a policy paragraph
+- **The `eşleşme?` case** — the server resolves brand and product by fuzzy matching, but a receipt never says whether it was the 1 kg or the 3 kg; the app asks instead of guessing, showing the unit price each option would feed into the index
 - **Claude as an ambiguity resolver only** — confirmed matches are cached per receipt format, so cost scales with uncertainty rather than with volume
-- **Laspeyres index** computed backend-side over canonical products, aliases and price observations, compared against monthly TÜİK CPI and ENAG E-CPI series
+- **Laspeyres index next to the data** — four PostgreSQL functions in a single transaction over canonical products, aliases and price observations, instead of index maths in application code
+- **Official series via the TCMB EVDS API** — the machine-readable channel, since TÜİK's own portal is closed to automated access; refreshed at most once a month, with manual entry as a fallback when no key is set
 - **KVKK-first** — separate disclosure and explicit-consent screens per the Board's 2026/347 decision, optional permissions off by default, guarded by a test
 - **Green `main`** — PR-only flow with CI running format, `analyze --fatal-infos`, tests with coverage and Android/iOS builds; Flutter version pinned via FVM and read from the same file by CI
 
