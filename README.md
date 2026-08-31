@@ -106,6 +106,32 @@ Built end to end as a solo project — relational data model, API, market-data p
 ## Other Projects
 
 <div align="center">
+  <a href="https://github.com/KaanCan1/Islet">
+    <img width="88%" src="https://raw.githubusercontent.com/KaanCan1/Islet/main/docs/demo.gif" alt="Islet — hover the notch and a panel opens"/>
+  </a>
+</div>
+
+<br/>
+
+### 🖥️ [Islet](https://github.com/KaanCan1/Islet)
+
+> Turns the MacBook camera notch into something useful — what's playing, a pomodoro timer, and how much of your Claude Code limit is left.
+
+Hover the notch and it grows into a panel; move the cursor away and it disappears completely. Lives in the menu bar with no Dock icon.
+
+**What's inside**
+
+- **The window never resizes** — it sits over the notch at a fixed size and the SwiftUI body animates inside it, so the spring animation never clips; while collapsed the panel passes clicks straight through to the menu bar underneath
+- **Hover without a tracking area** — the cursor is read 30 times a second against two hit regions, sized to the tallest tab so switching tabs can't drop the pointer outside the panel and snap it shut
+- **Now playing over AppleScript** — macOS 15.4 closed `MediaRemote` to unentitled apps, so Spotify and Apple Music are driven through their own scripting dictionaries rather than a private framework
+- **Claude Code usage, from the real source** — the same endpoint `/usage` reads, for the actual utilisation and reset time; with no token reachable it falls back to reconstructing the window from local transcripts, and the panel says which of the two you are looking at
+- **Content starts below the notch** — anything drawn in that strip sits behind the camera housing and is simply invisible, so the panel leaves it empty by design
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![AppleScript](https://img.shields.io/badge/AppleScript-4A4A4A?style=flat-square&logo=apple&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/KaanCan1/Sepet">
     <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/01-endeks.png" alt="Sepet — index screen"/>
     <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Sepet/main/docs/screenshots/store/02-fis.png" alt="Sepet — receipt screen"/>
