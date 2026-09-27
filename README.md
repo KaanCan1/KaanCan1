@@ -25,6 +25,7 @@ I'm drawn to master data management, data quality and process automation — sys
 ```
 Focus    SQL · PostgreSQL · data modelling · Node.js · Flutter
 Now      Portfolio Tracker — daily driver, solo build
+         Open Basket · Serverpod "Build Something Real" hackathon
 ```
 
 <br/>
@@ -59,7 +60,7 @@ Now      Portfolio Tracker — daily driver, solo build
 
 **Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Serverpod](https://img.shields.io/badge/Serverpod-1A73E8?style=for-the-badge&logo=dart&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Mobile**
 
@@ -104,6 +105,23 @@ Built end to end as a solo project — relational data model, API, market-data p
 <br/>
 
 ## Other Projects
+
+### 🧺 [Open Basket](https://github.com/KaanCan1/Open-Basket) · *in progress*
+
+> A live, time-boxed shared shopping basket for families and roommates. Built for Serverpod's **Build Something Real** hackathon.
+
+Someone opens a basket, everyone in the household adds to it in real time, and when the window closes the list is locked and ready for whoever does the shopping. No more "did anyone add milk?" in the group chat.
+
+**What's inside**
+
+- **Full-stack Dart** with a Flutter client and a Serverpod backend, sharing one set of generated models between app and server
+- **Live shared basket** where every member sees additions and changes as they happen
+- **Time-boxed sessions** that give a household a clear "add until" window before the list is locked
+- **Built as a two-person team** with [Yeşim Gündüz](https://github.com/), and aimed at an App Store release after the hackathon
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Serverpod](https://img.shields.io/badge/Serverpod-1A73E8?style=flat-square&logo=dart&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/KaanCan1/Islet">
