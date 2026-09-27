@@ -108,11 +108,12 @@ Built end to end as a solo project — relational data model, API, market-data p
 
 <div align="center">
   <a href="https://github.com/KaanCan1/Open-Basket">
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/01-a-basket-is-open.png" alt="Open Basket: a basket is open"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/02-open-a-basket.png" alt="Open Basket: opening a basket with a suggested time"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/03-the-live-basket.png" alt="Open Basket: the live basket"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/04-at-the-till.png" alt="Open Basket: at the till"/>
-    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/05-who-owes-whom.png" alt="Open Basket: who owes whom"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-01.png" alt="Open Basket: household screen"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-02.png" alt="Open Basket: choosing how long the basket stays open"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-03.png" alt="Open Basket: countdown on a fresh basket"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-04.png" alt="Open Basket: items added live by two people"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-05.png" alt="Open Basket: basket frozen at checkout"/>
+    <img width="16%" src="https://raw.githubusercontent.com/KaanCan1/Portfolio_Website_Kaan/main/assets/open-basket-06.png" alt="Open Basket: entering prices at the till"/>
   </a>
 </div>
 
