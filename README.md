@@ -106,18 +106,33 @@ Built end to end as a solo project — relational data model, API, market-data p
 
 ## Other Projects
 
-### 🧺 [Open Basket](https://github.com/KaanCan1/Open-Basket) · *in progress*
+<div align="center">
+  <a href="https://github.com/KaanCan1/Open-Basket">
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/01-a-basket-is-open.png" alt="Open Basket: a basket is open"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/02-open-a-basket.png" alt="Open Basket: opening a basket with a suggested time"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/03-the-live-basket.png" alt="Open Basket: the live basket"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/04-at-the-till.png" alt="Open Basket: at the till"/>
+    <img width="19%" src="https://raw.githubusercontent.com/KaanCan1/Open-Basket/main/docs/screenshots/05-who-owes-whom.png" alt="Open Basket: who owes whom"/>
+  </a>
+</div>
 
-> A live, time-boxed shared shopping basket for families and roommates. Built for Serverpod's **Build Something Real** hackathon.
+<br/>
 
-Someone opens a basket, everyone in the household adds to it in real time, and when the window closes the list is locked and ready for whoever does the shopping. No more "did anyone add milk?" in the group chat.
+### 🧺 [Open Basket](https://github.com/KaanCan1/Open-Basket) · [live demo](https://open-basket.serverpod.space/)
+
+> One person shops, everyone adds. A live, time-boxed shared shopping basket for families and housemates, built for Serverpod's **Build Something Real** hackathon.
+
+The shopper opens a basket for a store and a few minutes, everyone in the house adds what they need, and each item lands on every phone the moment it is added. The basket closes itself on the server when time runs out, and at the till the server works out who owes whom, down to the last kuruş.
 
 **What's inside**
 
-- **Full-stack Dart** with a Flutter client and a Serverpod backend, sharing one set of generated models between app and server
-- **Live shared basket** where every member sees additions and changes as they happen
-- **Time-boxed sessions** that give a household a clear "add until" window before the list is locked
-- **Built as a two-person team** with [Yeşim Gündüz](https://github.com/), and aimed at an App Store release after the hackathon
+- **Closing on time, server side:** a Serverpod future call is scheduled for the deadline and freezes the basket whether or not any phone is awake; it is idempotent, and a startup sweep closes anything a restart lost
+- **Live over WebSocket:** `basketStream.watch` sends a full snapshot first, then every change with the server's clock, so a phone that dropped its connection resyncs from the stream itself
+- **One open basket per household, enforced by the database:** a hand-written partial unique index on top of 17 generated `.spy.yaml` models, so two people tapping *Open a basket* at once can't both succeed
+- **Settlement in integer minor units:** each member owes their own items plus an even share of the receipt gap, with the remainder going to the shopper so the lines add up to exactly what was paid; a settled run is immutable
+- **Location never leaves the phone:** the suggested time comes from the distance to the store, and only the remaining time is shared
+- **Passwordless sign-in** with a six-digit email code, deployed on Serverpod Cloud
+- **Built as a two-person team:** I own the backend and Serverpod side, Yeşim Gündüz owns Flutter and UX; every decision is recorded as a numbered ADR
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Serverpod](https://img.shields.io/badge/Serverpod-1A73E8?style=flat-square&logo=dart&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
