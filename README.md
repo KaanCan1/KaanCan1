@@ -1,37 +1,118 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:7DD3B0&height=130&section=header" width="100%" alt="Mint wave header">
-
-<sub>I D E A S &nbsp; / &nbsp; A P P S &nbsp; / &nbsp; E X P E R I M E N T S</sub>
-
-# From idea to something real.
-
-I build apps with AI coding tools, curiosity, and attention to detail.  
-From the first prototype to the small things that make it feel right.
+<sub>INDEPENDENT BUILDING &nbsp; / &nbsp; APPS & EXPERIMENTS</sub>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=1800&color=7DD3B0&center=true&vCenter=true&width=440&height=40&lines=an+idea.+a+prototype.+a+real+app.;built+with+AI.+shaped+by+me.;always+making+something." width="440" alt="An idea. A prototype. A real app. Built with AI. Shaped by me. Always making something.">
+<h1>Ideas into apps.<br>Details into character.</h1>
+
+I make software for things I care about.<br>
+Built with AI coding tools. Shaped by hands-on decisions.
 
 <br>
-<br>
 
-<img src="https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=anthropic&logoColor=7DD3B0" alt="Claude">
-&nbsp;
-<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=7DD3B0" alt="Flutter">
-&nbsp;
-<img src="https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=7DD3B0" alt="Swift">
-&nbsp;
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=7DD3B0" alt="Python">
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=7DD3B0" alt="JavaScript">
+**↳** &nbsp; Currently somewhere between an idea, a prototype, and one more iteration.
 
 <br>
+
+---
+
+<sub>01 / SELECTED WORK</sub>
+
 <br>
 
-<sub>✦ &nbsp; Small tools. Thoughtful details. Everyday use.</sub>
+### Portfolio Tracker ↗
+**Know what you own. Understand the risk.**
+
+A self-hosted workspace for investments, market signals, and portfolio risk.
+Rule-based analysis does the scoring; Claude helps interpret the evidence.
+
+<sub>WEB APP &nbsp; / &nbsp; JAVASCRIPT · POSTGRESQL · CLAUDE · MCP</sub>
+
+[Explore project ↗](https://github.com/KaanCan1/portfolio-tracker)
 
 <br>
+
+### Islet ↗
+**A small space with a little more purpose.**
+
+Music controls, a focus timer, and Claude Code usage — tucked into the MacBook notch.
+There when you hover. Out of the way when you don't.
+
+<sub>MACOS APP &nbsp; / &nbsp; SWIFT · SWIFTUI</sub>
+
+[Explore project ↗](https://github.com/KaanCan1/Islet)
+
 <br>
 
-</div>
+### Open Basket ↗
+**One person shops. Everyone adds.**
+
+A live shopping basket for households, with a shared deadline and a clear split at checkout.
+A two-person build; I handle the backend, realtime updates, and settlement logic.
+
+<sub>MOBILE APP &nbsp; / &nbsp; FLUTTER · SERVERPOD · POSTGRESQL</sub>
+
+[Explore project ↗](https://github.com/KaanCan1/Open-Basket)
+
+<br>
+
+### Sepet ↗
+**Your receipts tell a bigger story.**
+
+Turns everyday grocery receipts into a personal price history and inflation index.
+On-device receipt scanning, careful product matching, and a view of how your own basket changes.
+
+<sub>MOBILE APP &nbsp; / &nbsp; FLUTTER · APPLE VISION · POSTGRESQL · CLAUDE</sub>
+
+[Explore project ↗](https://github.com/KaanCan1/Sepet)
+
+<br>
+
+---
+
+<sub>02 / SIDE PROJECTS</sub>
+
+<br>
+
+[**BeanSocial ↗**](https://github.com/KaanCan1/beansocial_son)  
+Coffee recipes, shared discoveries, and a community around the daily ritual.
+
+[**Spendly ↗**](https://github.com/KaanCan1/Spendly)  
+A minimal expense tracker for making everyday spending easier to follow.
+
+[**Sentiment Analysis ↗**](https://github.com/KaanCan1/Film-Yorumlari-Duygu-Analizi)  
+Exploring how classic machine-learning models read the sentiment behind movie reviews.
+
+<br>
+
+<details>
+<summary>Open the archive ↗</summary>
+
+<br>
+
+- [MoodAktif](https://github.com/KaanCan1/MoodAktif) — A native Android app exploring mood-focused interactions.
+- [Simple Chart Plotter](https://github.com/KaanCan1/Simple-Chart-Plotter) — A small Python tool for quick visual exploration of data.
+- [Red Wine Quality](https://github.com/KaanCan1/Red_wine_quailty) — Exploring wine quality through data analysis and classifier comparisons.
+
+</details>
+
+<br>
+
+---
+
+<sub>03 / TOOLS & APPROACH</sub>
+
+<br>
+
+**Different ideas, different tools.**
+
+Flutter, SwiftUI, Node.js, PostgreSQL, Python.  
+Claude and AI coding tools throughout the process.
+
+I work across the interface, the logic, and the data —  
+following what the product needs.
+
+<br>
+
+---
+
+<sub>LESS NOISE &nbsp; / &nbsp; MORE MAKING &nbsp; ↗</sub>
